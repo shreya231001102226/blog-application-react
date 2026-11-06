@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Introduction to React",
+      "author": "John",
+      "content": "React is a JavaScript library used for building user interfaces. It helps developers create reusable components and interactive web applications.",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+      "video": "",
+      "createdAt": "2026-11-01"
+    },
+    {
+      "id": "2",
+      "title": "Understanding JavaScript",
+      "author": "Alex",
+      "content": "JavaScript is a programming language used to create dynamic and interactive websites. It supports functions, objects, arrays and asynchronous programming.",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800",
+      "video": "",
+      "createdAt": "2026-11-02"
+    }
+  ]
+}
